@@ -1,4 +1,4 @@
-#mkvchapter2cue
+# mkvchapter2cue
 
 This program will convert a given MKV chapter format to cue format.
 
